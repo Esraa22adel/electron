@@ -8,7 +8,7 @@
     },
     "author": "osama",
     "dependencies": {
-        "electron": "^7.1.1",
+        "electron": "^9.4.0",
         "mysql": "github:mysqljs/mysql"
     }
 }
